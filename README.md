@@ -1,2 +1,2 @@
 # Implementation-Deliverables
-Spreadsheets and Graphs created as deliverables for a Project where I was the lead on. 
+Spreadsheets and Graphs created as deliverables for a project where I was the lead on. 
